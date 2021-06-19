@@ -39,7 +39,7 @@
 - 전체적인 흐름을 보기 어려운 구조
 - 연별, 월별 데이터를 파악하기 힘들다.
 
-![image-20210619150955764](README.assets\image-20210619150955764.png)
+![image-20210619150955764](README.assets/image-20210619150955764.png)
 
 
 
@@ -106,25 +106,25 @@ plt.pie(ratio, labels=labels, autopct='%1.1f%%', shadow=True, startangle=90)
 
 - 2016, 2017, 2018 연도별 국가별 파이차트
 
-![image-20210619152252457](README.assets\image-20210619152252457.png)
+![image-20210619152252457](README.assets/image-20210619152252457.png)
 
 
 
 - 2016~2018 타입(개인, 그룹, 레저) 별 관광객 현황
 
-![image-20210619152425518](README.assets\image-20210619152425518.png)
+![image-20210619152425518](README.assets/image-20210619152425518.png)
 
 
 
 - (좌) 월별, 타입별 관광객 누적 (우) 월별, 국가별 관광객 누적
 
-![image-20210619152519305](README.assets\image-20210619152519305.png)
+![image-20210619152519305](README.assets/image-20210619152519305.png)
 
 
 
 - 월별 주요 국가 관광객 수
 
-![image-20210619152621580](README.assets\image-20210619152621580.png)
+![image-20210619152621580](README.assets/image-20210619152621580.png)
 
 
 
@@ -134,7 +134,7 @@ plt.pie(ratio, labels=labels, autopct='%1.1f%%', shadow=True, startangle=90)
 
 - 중국 관광객이 2017.04 를 기준으로 급감했다. 이는 당시 사드배치의 영향으로 중국인 관광객이 감소한 것으로 해석할 수 있다.
 
-  ![image-20210619153823042](README.assets\image-20210619153823042.png)
+  ![image-20210619153823042](README.assets/image-20210619153823042.png)
 
 - 개인 관광객이 꾸준히 증가하고 있다. 1인 혹은 2인 등 소규모 관광객이 즐길 수 있는 여행 코스나 식당을 적극적으로 홍보하는 것이 좋을 것으로 예상 된다.
 
